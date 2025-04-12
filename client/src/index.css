@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap");
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(0, 213, 250, 0.1),
+    rgba(102, 230, 252, 0.1),
+    rgba(204, 247, 254, 0.1)
+  );
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+  backdrop-filter: blur(100px);
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+/* Custom Scrollbar Styles */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 213, 250, 0.3);
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 213, 250, 0.5);
+}
+
+/* For dark mode */
+[data-theme='dark'] ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: rgba(0, 213, 250, 0.4);
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 213, 250, 0.6);
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 213, 250, 0.3) rgba(0, 0, 0, 0.05);
+}
