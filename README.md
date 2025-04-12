@@ -4,6 +4,8 @@ A full-stack social media application built with the MERN stack (MongoDB, Expres
 
 > **Note**: This project is based on an existing MERN social media application codebase that has been significantly extended and enhanced by approximately 80-85%. The original codebase served as a foundation, while the current implementation includes substantial improvements in architecture, features, and system design.
 
+> **Academic Project**: This project was developed as part of the System Design course taught by Dr. Saman Shishechi at Qazvin Islamic Azad University (QIAU). The course focused on applying system design principles to real-world applications, with this project serving as a practical implementation of those concepts.
+
 ## Features
 
 - **User Authentication**: Secure login and registration system
@@ -394,7 +396,6 @@ The application includes comprehensive error handling:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
 ## Acknowledgments
 
 - Material-UI for the component library
@@ -402,4 +403,5 @@ The application includes comprehensive error handling:
 - Express.js for the backend framework
 - React for the frontend framework
 - The original MERN social media application codebase that served as a foundation for this project
-- Jira for project management and agile development 
+- Jira for project management and agile development
+- Dr. Saman Shishechi for teaching the System Design course at Qazvin Islamic Azad University (QIAU) 
