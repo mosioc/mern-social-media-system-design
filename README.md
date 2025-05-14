@@ -24,7 +24,7 @@ A full-stack social media application built with the MERN stack (MongoDB, Expres
 - **Real-time Communication**: WebSockets
 - **Authentication**: JWT (JSON Web Tokens)
 - **Project Management**: Jira for agile development and task tracking
-
+Update
 ## Project Documentation
 
 This project includes comprehensive documentation in various formats:
@@ -291,13 +291,13 @@ mern-social-media/
 │   ├── routes/             # API routes
 │   ├── index.js            # Server entry point
 │   └── package.json        # Backend dependencies
-├── systems design/         # System design documentation
-│   ├── assets/             # System design images and diagrams
 │   ├── AD.md               # Architecture Diagram
 │   ├── ER.md               # Entity Relationship Diagram
 │   ├── UCD.md              # Use Case Diagram
 │   ├── SL.md               # Sequence Diagrams
 │   ├── kooroky.md          # System Requirements
+├── systems design/         # System design documentation
+│   ├── assets/             # System design images and diagrams
 │   ├── 14031010KoorokyProject.MehdiMaleki.final.pdf  # Final project report
 │   ├── 14031010KoorokySDF.m.final.docx               # System design final document
 │   ├── 14031010KoorokySDF.m.demo.pdf                 # System design demo
