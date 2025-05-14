@@ -55,11 +55,11 @@ The Jira implementation helped maintain project transparency and ensured timely 
 
 This project includes comprehensive system design documentation in the `systems design` directory:
 
-- **[Architecture Diagram](systems%20design/AD.md)**: High-level system architecture showing component interactions
-- **[Entity Relationship Diagram](systems%20design/ER.md)**: Database schema and relationships
-- **[Use Case Diagram](systems%20design/UCD.md)**: User interactions and system functionality
-- **[Sequence Diagrams](systems%20design/SL.md)**: Detailed flow of operations
-- **[System Requirements](systems%20design/kooroky.md)**: Functional and non-functional requirements
+- **[Architecture Diagram](server/AD.md)**: High-level system architecture showing component interactions
+- **[Entity Relationship Diagram](server/ER.md)**: Database schema and relationships
+- **[Use Case Diagram](server/UCD.md)**: User interactions and system functionality
+- **[Sequence Diagrams](server/SL.md)**: Detailed flow of operations
+- **[System Requirements](server/kooroky.md)**: Functional and non-functional requirements
 
 ### System Design Principles Applied
 
