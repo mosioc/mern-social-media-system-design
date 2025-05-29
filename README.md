@@ -21,14 +21,6 @@ A full-stack social media application built with the MERN stack (MongoDB, Expres
 - **Authentication**: JWT (JSON Web Tokens)
 - **Project Management**: Jira for agile development and task tracking
 Update
-## Project Documentation
-
-This project includes comprehensive documentation in various formats:
-
-- **[Final Project Report](systems%20design/14031010KoorokyProject.MehdiMaleki.final.pdf)**: Complete project documentation with all details
-- **[System Design Final](systems%20design/14031010KoorokySDF.m.final.docx)**: Detailed system design document
-- **[System Design Demo](systems%20design/14031010KoorokySDF.m.demo.pdf)**: Presentation of the system design
-- **[System Design Markdown](systems%20design/14031010KoorokySD.m.final.md)**: System design in markdown format
 
 ## Project Management
 
